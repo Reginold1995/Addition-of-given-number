@@ -1,0 +1,19 @@
+/* Addition of a given n number 
+
+n=5
+    */
+
+class Addition
+{
+    public static void main(String args[])
+    {
+        int n=5;
+        int sum=0;
+        for(int i=1;i<=n;n--)
+        {
+            sum=sum+n;
+           
+        }
+         System.out.println(sum);
+      }
+}
